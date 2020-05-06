@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#bcbcbc}
+        </style>
+    </defs>
+    <g id="prefix__Group_27601" data-name="Group 27601" transform="translate(-7 -8)">
+        <path id="prefix__Path_47698" d="M29.5 33h-20A2.5 2.5 0 0 1 7 30.5v-20A2.5 2.5 0 0 1 9.5 8h20a2.5 2.5 0 0 1 2.5 2.5v20a2.5 2.5 0 0 1-2.5 2.5zM12 28h15V13H12z" class="prefix__cls-1" data-name="Path 47698"/>
+        <path id="prefix__Path_47699" d="M60.5 33h-20a2.5 2.5 0 0 1-2.5-2.5v-20A2.5 2.5 0 0 1 40.5 8h20a2.5 2.5 0 0 1 2.5 2.5v20a2.5 2.5 0 0 1-2.5 2.5zM43 28h15V13H43z" class="prefix__cls-1" data-name="Path 47699"/>
+        <path id="prefix__Path_47700" d="M60.5 64h-20a2.5 2.5 0 0 1-2.5-2.5v-20a2.5 2.5 0 0 1 2.5-2.5h20a2.5 2.5 0 0 1 2.5 2.5v20a2.5 2.5 0 0 1-2.5 2.5zM43 59h15V44H43z" class="prefix__cls-1" data-name="Path 47700"/>
+        <path id="prefix__Path_47701" d="M29.5 64h-20A2.5 2.5 0 0 1 7 61.5v-20A2.5 2.5 0 0 1 9.5 39h20a2.5 2.5 0 0 1 2.5 2.5v20a2.5 2.5 0 0 1-2.5 2.5zM12 59h15V44H12z" class="prefix__cls-1" data-name="Path 47701"/>
+    </g>
+</svg>
